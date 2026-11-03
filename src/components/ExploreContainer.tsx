@@ -10,11 +10,7 @@ const ExploreContainer: React.FC<ContainerProps> = ({ name }) => {
       <strong>{name}</strong>
       <p>Explore UI Components</p>
 
-      <img
-        src="public/ranita.webp"
-        alt="Imagen de ejemplo"
-        className="explore-img"
-      />
+      <img src="/ranita.webp" alt="Una ranita" className="explore-img" />
 
       <table className="explore-table">
         <tbody>
