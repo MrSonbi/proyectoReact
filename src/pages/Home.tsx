@@ -17,7 +17,7 @@ const Home: React.FC = () => {
             <IonTitle size="large">Blank</IonTitle>
           </IonToolbar>
         </IonHeader>
-        <ExploreContainer />
+        <ExploreContainer name="Home" />
         <IonButton routerLink="/about">Ir a About</IonButton>
       </IonContent>
     </IonPage>
