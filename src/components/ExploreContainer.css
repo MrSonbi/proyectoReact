@@ -22,3 +22,19 @@
 #container a {
   text-decoration: none;
 }
+
+.explore-img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 16px 0;
+}
+
+.explore-table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+
+.explore-table td {
+  border: 1px solid #999;
+  padding: 8px 12px;
+}
